@@ -1,61 +1,28 @@
-# Will You Be My Valentine? 
+<h1 align="center">
+    Valentine's Wish
+</h1>
 
-This project is designed to be an interactive webpage to ask someone to be your Valentine. Please use this code as inspiration.
----
-## Respect Open-Source
-I built this for **fun & learning**. If you fork or modify it:  
-✔ **Use it for creativity, personal projects, or learning**  
-✔ **Give proper credit when using it in public**  
-✔ **Respect the original creator’s work**  
- 
+[![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/GovindCodes)
 
 
+#### [See it Live](https://govindcodes.github.io/ValentineWish/)
+
+## Make your own version :computer:
+
+:camera::camera::camera::camera::camera::camera::camera:
+*Start with Smile*:smile::smile:
+
+* Fork the repository
+* Open `customize.json` and replace name/wish-message/image with your own
+* Turn on GitHub pages for the repository (Settings > GitHub Pages)
+* Send the URL that you get at the above step to your friend
 
 
-## How It Works 
+## Contributing
 
-This project consists of a simple webpage with a "Yes" and "No" button. When the user clicks the "No" button, the button text changes to a series of  messages, and the "Yes" button grows larger. If the user clicks the "Yes" button, they are redirected to a new page (`yes_page.html`).
+If you have any idea to make it more interesting, feel free to send a PR, or create an issue for a feature request.
 
-### Features:
-- **Interactive Buttons**: The "No" button cycles through , while the "Yes" button grows in size.
-- **Responsive Design**: The webpage is designed to work on all screen sizes.
+Stay happy and keep the people you care about happy. :)
 
----
-
-## How to Use 
-
-1. **Download the Files**:
-   - Clone this repository or download the `index.html`, `styles.css`,`yes_style.css`,`yes_page.html` and `script.js` files.
-
-2. **Open the Project**:
-   - Open the `index.html` file in your web browser.
-
-
----
-
-
-## Code Overview 
-
-### Files:
-
-- `index.html`: The main HTML file that structures the webpage.
-- `styles.css`: The CSS file that styles the webpage.
-- `script.js`: The JavaScript file that handles the button interactions.
-- `yes_page.html`: The yes page that sturctures the webpage.
-- `yes_style.css`: The css file that styles the yes webpage.
-
-
-
-### Key Functions:
-
-- `handleNoClick()`: Changes the "No" button text and increases the size of the "Yes" button.
-- `handleYesClick()`: Redirects the user to `yes_page.html`.
-
----
-
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
+#### OwnerShip
+ The animations used in the Repository is created by Afiur Rahman Fahim(faahim).:smile:
